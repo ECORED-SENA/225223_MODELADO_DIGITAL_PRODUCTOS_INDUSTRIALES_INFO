@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **225223_MODELADO_DIGITAL_PRODUCTOS_INDUSTRIALES_INFO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/225223_MODELADO_DIGITAL_PRODUCTOS_INDUSTRIALES_INFO/](https://ecored-sena.github.io/225223_MODELADO_DIGITAL_PRODUCTOS_INDUSTRIALES_INFO/)
 
 #
